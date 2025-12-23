@@ -377,7 +377,7 @@ const FlexibleEmploymentArchitecture = () => {
               textShadow: "0 2px 20px rgba(0,0,0,0.3)",
             }}
           >
-            灵活用工平台系统架构
+            YY Circle 焕新版系统架构
           </h1>
           <p
             style={{
